@@ -22,3 +22,10 @@ func main() {
 
 	// var webresponse http.ResponseWriter([]byte("Hello world. I am a web server"))
 }
+
+/*
+See also:
+
+https://yourbasic.org/golang/http-server-example/
+
+*/
